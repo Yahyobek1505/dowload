@@ -22,7 +22,7 @@
 .logo img {
     align-items: center;
     justify-content: center;
-    padding-bottom: 400px;
+    padding-bottom: 20px;
 }
 
 .menu1 ul {
@@ -134,18 +134,12 @@
     font-weight: 700;
 }
 
-.logo img {
-    padding-top: 50px;
-    gap: 50px;
-    align-items: center;
-    justify-content: center;
-}
 
 .logo {
     padding-left: 200px;
     justify-content: center;
     align-items: center;
-    padding-top: 400px;
+    padding-top: 20px;
 }
 
 .logo55 {
